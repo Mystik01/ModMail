@@ -1,0 +1,11 @@
+{ 
+    "prefix" : "?",
+    "serverID" : "SERVER-ID",
+    "ModeratorRoles" : ["RoleId1", "RoleId2"], 
+    "EmbedAuthor" : "Modmail",
+    "Category" : "Category-ID-For-Tickets",
+    "LogChannel" : "Channel-ID-to-log-tickets",
+    "EmbedPfp" : "https;//modmail.com/modmail.png",
+    "EmbedColour" : "#a60100",
+    "token" : "bot-token"
+}

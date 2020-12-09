@@ -1,0 +1,25 @@
+{
+  "name": "p3nguin",
+  "version": "1.0.0",
+  "description": "P3NGUIN SUPPORT",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "forever": "^3.0.4",
+    "sleep.js": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mystik01/p3nguin.git"
+  },
+  "author": "Mystik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mystik01/p3nguin/issues"
+  },
+  "homepage": "https://github.com/Mystik01/p3nguin#readme"
+}
