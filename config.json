@@ -1,5 +1,6 @@
 { 
     "prefix" : "?",
+    "bot-name" : "YOUR-BOT-NAME",
     "serverID" : "SERVER-ID",
     "ModeratorRoles" : ["RoleId1", "RoleId2"], 
     "EmbedAuthor" : "Modmail",

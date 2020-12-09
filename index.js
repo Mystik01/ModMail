@@ -104,7 +104,7 @@ client.on("message", async (message) => {
     if (command === 'help') {
         message.delete()
         const helpEmbed = new MessageEmbed()
-            .setTitle('__**P3NGUIN Support - Help**__')
+            .setTitle(`__**${config["bot-name"]} - Help**__`)
             .setDescription('**Commands:**\n`?help` - This command that you are currently viewing.\n`?gd (text)` - Write text in geometry dash font.\n`?christmas` - Tells you how many days are until Christmas!\n`?banner (text)` - Write text on a p3nguin background.')
             .setFooter(`${watermark}`)
             .setColor(`${embedC}`)
