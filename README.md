@@ -1,4 +1,4 @@
-# ModMail
+# Discord ModMail Bot
 
 ## Commands:
 
