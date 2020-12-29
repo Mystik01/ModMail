@@ -18,7 +18,7 @@ help - Help command.
 1) Download as ZIP
 2) Extract
 3) Open your terminal / cmd and set the directory to the extracted folder.
-4) Type `npm install`
+4) Run the `install.bat` file if you are windows, for Mac type `npm i` in your terminal.
 5) Open the config file
 6) Edit the file to what you want, remember to save.
 7) Type `node index.js` in your terminal. 
