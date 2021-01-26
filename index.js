@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const client = new Discord.Client()
 const { MessageEmbed } = require('discord.js')
-const config = require("./config.json");
+const config = require("./config.js");
 const sleep = require('sleep.js');
 const func = require('./functions');
 var result = func.Christmas();
