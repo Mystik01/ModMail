@@ -1,6 +1,6 @@
 const { MessageEmbed } = require('discord.js');
 var days = 0;
-const config = require("./config.json");
+const config = require("./config.js");
 const embedA = config.EmbedAuthor;
 const embedP = config.EmbedPfp;
 const embedC = config.EmbedColour;
