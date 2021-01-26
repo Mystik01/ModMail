@@ -8,5 +8,5 @@
     "LogChannel" : "Channel-ID-to-log-tickets",
     "EmbedPfp" : "https;//modmail.com/modmail.png",
     "EmbedColour" : "#a60100",
-    "token" : "bot-token"
+    "token" : process.env.TOKEN
 }
