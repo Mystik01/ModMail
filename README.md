@@ -27,8 +27,8 @@ help - Help command.
 go to [repl.it](https://repl.it/~)
 - new node.js repl
 - open shell and type ```git clone https://github.com/DoodleFuse/ModMail```
-```mv ./Modmail/* ./```
-```npm install```
+- ```mv ./ModMail/* ./```
+- ```npm install```
 - then hit run
 - now enter the project name then your repl username then co
 - example of the above - https://modmailbot.username.repl.co  -- copy this 
