@@ -23,10 +23,19 @@ help - Help command.
 6) Edit the file to what you want, remember to save.
 7) Type `node index.js` in your terminal. 
 
+# Setup for 100% online and free
+go to [repl.it](https://repl.it/~)
+- new node.js repl
+- open shell and type ```git clone https://github.com/DoodleFuse/ModMail```
+```mv ./Modmail/* ./```
+```npm install```
+- then hit run
+- now enter the project name then your repl username then co
+- example of the above - https://modmailbot.username.repl.co  -- copy this 
+- now go to [cactus pinger](https://cactus-pinger.codingcactus.repl.co)
+- paste the https://modmailbot.username.repl.co in the box wait for sometime and boom
 
-
-
-*Please do not claim this bot as you made it, I'd rather you keep the watermark in on the embed as well but it's okay if you remove it however do not say you made this bot.*
-Spanish version coming soon
+## Issues
+open an issue here 
 
 **If you need help contact me on Discord: https://discord.gg/GtgWHPuY5v, if you know how to fix the error, open a PR request**
